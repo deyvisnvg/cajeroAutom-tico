@@ -1,2 +1,2 @@
-# cajeroAutom-tico
-Curso de Programación Básica - Cajero Automático
+# cajeroAutomatico
+Curso de Programación Básica - Cajero Automatico
